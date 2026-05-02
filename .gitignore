@@ -1,0 +1,48 @@
+target/
+**/target/
+*.log
+.DS_Store
+node_modules/
+dist/
+build/
+.env
+.env.*
+!.env.example
+coverage/
+.idea/
+.vscode/
+*.class
+*.jar
+*.war
+
+# Blockchain generated artifacts
+blockchain/artifacts/channel/crypto-config/
+blockchain/artifacts/crypto-config/
+blockchain/artifacts/channel/*.block
+blockchain/artifacts/channel/*.tx
+blockchain/artifacts/channel/FATA
+blockchain/artifacts/channel/INFO
+blockchain/artifacts/INFO
+blockchain/channel-artifacts/
+
+# Legacy paths (if any)
+blockchain/channel/crypto-config/
+blockchain/channel/*.block
+blockchain/channel/*.tx
+
+# Backend wallets and generated connection profiles
+backend/connection-profiles/*/wallet/
+backend/connection-profiles/*/*.json
+backend/connection-profiles/*/*.yaml
+
+# Chatbot & Python Environment
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.env/
+
+# Chatbot Storage & Large Data
+chatbot-service/chroma_db/
+chatbot-service/chroma_data/
