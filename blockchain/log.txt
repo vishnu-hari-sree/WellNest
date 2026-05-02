@@ -1,0 +1,2 @@
+Installed chaincodes on peer:
+Package ID: ehr_1:9f5037788263856238b4e34fcf99e6cb4227e536e6b81858e4ecd8f3e165f8a4, Label: ehr_1
