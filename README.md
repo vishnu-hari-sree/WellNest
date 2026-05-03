@@ -84,7 +84,7 @@ AI Modules (Chatbot + CDSS)
 | Layer      | Technology             |
 | ---------- | ---------------------- |
 | Blockchain | Hyperledger Fabric     |
-| Backend    | Node.js / Spring Boot  |
+| Backend    | Node.js   |
 | Frontend   | React (Vite)           |
 | Database   | MongoDB                |
 | AI         | NLP, RAG, CDSS         |
@@ -270,10 +270,3 @@ WellNest represents a **next-generation healthcare platform** that integrates:
 * **AI for intelligence and usability**
 * **Patient-centric design for control and transparency**
 
----
-
-If you want, I can further upgrade this into:
-
-* ⭐ **Top-tier GitHub README (with badges + visuals + diagrams)**
-* 📊 **Architecture diagrams for presentation**
-* 🧠 **Interview explanation version (for placements)**
